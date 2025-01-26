@@ -21,4 +21,5 @@ This program helps players verify if their Roblox accounts are working properly 
 - Simple setup.
 
 You'll need a cookie file to use the program, and please refrain from modifying it. Use it as downloaded.
-It was created for the discord server!
+
+The program is created strictly for the Discord server! Please do not distribute it outside of the Discord server.
